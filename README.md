@@ -1,1 +1,1 @@
-"# PyQt5_Tutorial" 
+# PyQt5_Tutorial
